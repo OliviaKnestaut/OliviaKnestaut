@@ -1,6 +1,9 @@
-p {
-    font-family:monospace;
-    color:coral;}
+@font-face {
+    font-family: 'olivias_bank_heistregular';
+    src: url('fonts/olivia.knestaut.font-webfont.woff2') format('woff2'),
+         url('fonts/olivia.knestaut.font-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;}
 
 #body {
     width: 875px;
@@ -14,7 +17,10 @@ p {
     width: 800px;
     border: 3px solid;
     padding: 10px;
-    margin: 20px;}
+    margin: 20px;
+    color:coral;
+    font-size: 25px;
+    font-family:'olivias_bank_heistregular';}
 
 .paraone, .parathree {
     color: darkmagenta;
@@ -24,16 +30,19 @@ p {
     color:cadetblue;
     background-color: white;}
 
-h1 {color: white;
+h1 {
+    color: white;
     width: 900px;
     padding: 10px;
     margin: 10px;
     background-color:darkmagenta;
-    font-family: monospace;}
+    font-size: 50px;
+    font-family: 'Sigmar One', cursive;}
 
-#listone {width: 240px;
+#listone {
+    width: 240px;
     margin: 40px;
     padding: 10px;
     background-color:plum;
-    font-family: monospace;}
-#wholepage
+    font-family:'olivias_bank_heistregular';
+    font-size: 25px}
