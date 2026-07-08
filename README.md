@@ -10,20 +10,21 @@
   <img src="assets/Title.svg" width="700" alt="Olivia Knestaut - Full Stack Developer and UX/UI Designer">
 </p>
 
-<table cellpadding="0" cellspacing="0">
-<tr>
-<td width="36%" align="center" valign="middle">
+<!-- ========================================================= -->
+<!-- ABOUT -->
+<!-- ========================================================= -->
+
+<div>
 
 <img
-src="assets/OK-Cover.jpg"
-width="100%"
-alt="Portrait of Olivia Knestaut"
-style="display:block;"
+  src="assets/OK-Cover.jpg"
+  width="36%"
+  align="left"
+  style="margin-right: 30px;"
+  alt="Portrait of Olivia Knestaut"
 />
 
-</td>
-
-<td width="64%" valign="middle">
+<div align="left">
 
 As a **UX/UI Designer** and **Full Stack Developer**, I am passionate about creativity, problem-solving, and inclusive design. One of my main goals is to get involved with accessibility in media. I want to promote the consideration of a range of disabilities throughout every stage of the design and development process.
 
@@ -38,30 +39,32 @@ Beyond the screen, I find inspiration in the natural world. Whether I'm photogra
 <br>
 
 <div align="center">
-<a href="https://oknestaut.com" target="_blank">
+<a href="https://oknestaut.com">
 <img src="assets/portfolio_icon_blue.svg" width="42">
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/oliviaknestaut/" target="_blank">
+<a href="https://www.linkedin.com/in/oliviaknestaut/">
 <img src="assets/linkedin_icon_blue.svg" width="42">
 </a>
 &nbsp;
-<a href="mailto:olivia.knestaut@gmail.com" target="_blank">
+<a href="mailto:olivia.knestaut@gmail.com">
 <img src="assets/mail_icon_blue.svg" width="42">
 </a>
 &nbsp;
-<a href="https://github.com/OliviaKnestaut" target="_blank">
+<a href="https://github.com/OliviaKnestaut">
 <img src="assets/github_icon_blue.svg" width="42">
 </a>
 &nbsp;
-<a href="https://www.instagram.com/ollywhelmed/" target="_blank">
+<a href="https://www.instagram.com/ollywhelmed/">
 <img src="assets/instagram_icon_blue.svg" width="42">
 </a>
 </div>
 
-</td>
-</tr>
-</table>
+</div>
+
+</div>
+
+<br clear="left">
 
 
 <!-- ========================================================= -->
