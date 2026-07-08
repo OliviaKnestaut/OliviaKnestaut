@@ -10,7 +10,7 @@
   <img src="assets/Title.svg" width="700" alt="Olivia Knestaut - Full Stack Developer and UX/UI Designer">
 </p>
 
-<table>
+<table style="border: none;">
 <tr>
 <td width="36%" align="center">
 
@@ -34,7 +34,7 @@ Currently, I am pursuing a **Bachelor of Science in User Experience & Interactio
 
 Beyond the screen, I find inspiration in the natural world. Whether I'm photographing my way across America's National Parks or nurturing my ever-growing collection of houseplants, I love connecting with nature and capturing its beauty. Engaging with nature in these ways fuels my creativity and reminds me of the importance of sustainable design in all areas of life.
 
-<table align="center">
+<table align="center" style="border: none;">
 <tr>
 
 <td align="center">
@@ -86,7 +86,7 @@ Beyond the screen, I find inspiration in the natural world. Whether I'm photogra
 
 <br>
 
-<table align="center">
+<table align="center" style="border: none;">
   <tr>
     <td align="center" width="200">
       <a href="https://www.drexelcab.com/" target="_blank">
@@ -137,61 +137,49 @@ Beyond the screen, I find inspiration in the natural world. Whether I'm photogra
 
 <br>
 
-<table align="center" border="0">
+<table align="center" style="border: none;">
 <tr>
 
 <td align="center" width="25%">
-<a href="assets/Olivia-Leader-Large.jpg">
 <img src="assets/Olivia-Leader-Small.jpg"
      width="220"
      alt="Leading activities on campus">
-</a>
 </td>
 
 <td align="center" width="25%">
-<a href="assets/Olivia-Ski-Large.jpg">
 <img src="assets//Olivia-Ski-Small.jpg"
      width="220"
      alt="Skiing at Blue Mountain">
-</a>
 </td>
 
 <td align="center" width="50%">
-<a href="assets/Olivia-Museum-Large.jpg">
 <img src="assets/Olivia-Museum-Small.jpg"
      width="460"
      alt="Visiting the Wadsworth Atheneum Museum of Art">
-</a>
 </td>
 
 </tr>
 </table>
 
-<table align="center" border="0">
+<table align="center" style="border: none;">
 <tr>
 
 <td align="center" width="50%">
-<a href="assets/Olivia-PHS-Large.jpg">
 <img src="assets/Olivia-PHS-Small.jpg"
      width="460"
      alt="Award-winning photography at the PHS Flower Show">
-</a>
 </td>
 
 <td align="center" width="25%">
-<a href="assets/Olivia-WagWatch-Large.jpg">
 <img src="assets/Olivia-WagWatch-Small.jpg"
      width="220"
      alt="Playing with dogs at Wag Watch">
-</a>
 </td>
 
 <td align="center" width="25%">
-<a href="assets/Olivia-Shenandoah-Large.jpg">
 <img src="assets/Olivia-Shenandoah-Small.jpg"
      width="220"
      alt="Hiking in Shenandoah National Park">
-</a>
 </td>
 
 </tr>
@@ -209,7 +197,7 @@ Beyond the screen, I find inspiration in the natural world. Whether I'm photogra
 
 <br>
 
-<table align="center" border="0">
+<table align="center" style="border: none;">
 <tr>
 
 <td align="center" width="25%">
