@@ -10,9 +10,9 @@
   <img src="assets/Title.svg" width="700" alt="Olivia Knestaut - Full Stack Developer and UX/UI Designer">
 </p>
 
-<table style="border: none;">
+<table border="0">
 <tr>
-<td width="36%" align="center">
+<td width="36%" align="center" border="0">
 
 <img
 src="assets/OK-Cover.png"
@@ -34,7 +34,7 @@ Currently, I am pursuing a **Bachelor of Science in User Experience & Interactio
 
 Beyond the screen, I find inspiration in the natural world. Whether I'm photographing my way across America's National Parks or nurturing my ever-growing collection of houseplants, I love connecting with nature and capturing its beauty. Engaging with nature in these ways fuels my creativity and reminds me of the importance of sustainable design in all areas of life.
 
-<table align="center" style="border: none;">
+<table align="center" border="0">
 <tr>
 
 <td align="center">
@@ -86,7 +86,7 @@ Beyond the screen, I find inspiration in the natural world. Whether I'm photogra
 
 <br>
 
-<table align="center" style="border: none;">
+<table align="center" border="0">
   <tr>
     <td align="center" width="200">
       <a href="https://www.drexelcab.com/" target="_blank">
@@ -137,7 +137,7 @@ Beyond the screen, I find inspiration in the natural world. Whether I'm photogra
 
 <br>
 
-<table align="center" style="border: none;">
+<table align="center" border="0">
 <tr>
 
 <td align="center" width="25%">
@@ -161,7 +161,7 @@ Beyond the screen, I find inspiration in the natural world. Whether I'm photogra
 </tr>
 </table>
 
-<table align="center" style="border: none;">
+<table align="center" border="0">
 <tr>
 
 <td align="center" width="50%">
@@ -197,7 +197,7 @@ Beyond the screen, I find inspiration in the natural world. Whether I'm photogra
 
 <br>
 
-<table align="center" style="border: none;">
+<table align="center" border="0">
 <tr>
 
 <td align="center" width="25%">
