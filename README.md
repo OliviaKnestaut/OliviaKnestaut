@@ -10,9 +10,9 @@
   <img src="assets/Title.svg" width="700" alt="Olivia Knestaut - Full Stack Developer and UX/UI Designer">
 </p>
 
-<table border="0">
-<tr border="0">
-<td width="36%" align="center" border="0">
+<table style="border: none;">
+<tr>
+<td width="36%" align="center">
 
 <img
 src="assets/OK-Cover.png"
@@ -22,7 +22,7 @@ alt="Portrait of Olivia Knestaut"
 
 </td>
 
-<td width="64%" align="top" border="0">
+<td width="64%" valign="top">
 
 As a **UX/UI Designer** and **Full Stack Developer**, I am passionate about creativity, problem-solving, and inclusive design. One of my main goals is to get involved with accessibility in media. I want to promote the consideration of a range of disabilities throughout every stage of the design and development process
 
@@ -34,8 +34,8 @@ Currently, I am pursuing a **Bachelor of Science in User Experience & Interactio
 
 Beyond the screen, I find inspiration in the natural world. Whether I'm photographing my way across America's National Parks or nurturing my ever-growing collection of houseplants, I love connecting with nature and capturing its beauty. Engaging with nature in these ways fuels my creativity and reminds me of the importance of sustainable design in all areas of life.
 
-<table align="center" border="0">
-<tr border="0">
+<table align="center" style="border: none;">
+<tr>
 
 <td align="center">
 <a href="https://oknestaut.com">
@@ -86,7 +86,7 @@ Beyond the screen, I find inspiration in the natural world. Whether I'm photogra
 
 <br>
 
-<table align="center" border="0">
+<table align="center" style="border: none;">
   <tr>
     <td align="center" width="200">
       <a href="https://www.drexelcab.com/" target="_blank">
@@ -137,7 +137,7 @@ Beyond the screen, I find inspiration in the natural world. Whether I'm photogra
 
 <br>
 
-<table align="center" border="0">
+<table align="center" style="border: none;">
 <tr>
 
 <td align="center" width="25%">
@@ -161,7 +161,7 @@ Beyond the screen, I find inspiration in the natural world. Whether I'm photogra
 </tr>
 </table>
 
-<table align="center" border="0">
+<table align="center" style="border: none;">
 <tr>
 
 <td align="center" width="50%">
