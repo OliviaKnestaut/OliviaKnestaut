@@ -6,13 +6,9 @@
   <img src="assets/OK-Header.png" width="100%" alt="Abstract colorful header">
 </p>
 
-<br>
-
 <p align="center">
   <img src="assets/Title.svg" width="700" alt="Olivia Knestaut - Full Stack Developer and UX/UI Designer">
 </p>
-
-<br>
 
 <table>
 <tr>
@@ -84,9 +80,9 @@ Outside of technology, I find inspiration in nature. Whether I'm photographing A
 <!-- CURRENTLY INVOLVED WITH -->
 <!-- ========================================================= -->
 
-<h2 align="center">
-  <span style="color:#B5512A;">CURRENTLY INVOLVED WITH...</span>
-</h2>
+<p align="center">
+  <img src="assets/Title-Involvement.svg" width="800" alt="Currently Involved With...">
+</p>
 
 <br>
 
@@ -145,9 +141,9 @@ Outside of technology, I find inspiration in nature. Whether I'm photographing A
 <!-- LATELY I'VE BEEN... -->
 <!-- ========================================================= -->
 
-<h2 align="center">
-  <span style="color:#B5512A;">LATELY I'VE BEEN...</span>
-</h2>
+<p align="center">
+  <img src="assets/Title-Lately.svg" width="550" alt="Lately I've Been...">
+</p>
 
 <br>
 
@@ -215,9 +211,9 @@ Outside of technology, I find inspiration in nature. Whether I'm photographing A
 <!-- MAYBE YOU SAW ME AT... -->
 <!-- ========================================================= -->
 
-<h2 align="center">
-  <span style="color:#B5512A;">MAYBE YOU SAW ME AT...</span>
-</h2>
+<p align="center">
+  <img src="assets/Title-Jobs.svg" width="700" alt="Maybe you saw me at...">
+</p>
 
 <br>
 
