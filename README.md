@@ -82,15 +82,15 @@ Beyond the screen, I find inspiration in the natural world. Whether I'm photogra
 
 <p align="center">
 
-<a href="https://www.drexelcab.com/">
+<a border="0" href="https://www.drexelcab.com/">
 <img src="assets/CAB_FullColor.png" width="200">
 </a>
 &nbsp;
-<a href="https://www.instagram.com/drexelchi/?hl=en">
+<a border="0" href="https://www.instagram.com/drexelchi/?hl=en">
 <img src="assets/drexel-chi-ux.png" width="140">
 </a>
 &nbsp;
-<a href="https://www.instagram.com/drexeldragonfly/">
+<a border="0" href="https://www.instagram.com/drexeldragonfly/">
 <img src="assets/dragonfly-logo.png" width="160">
 </a>
 
@@ -132,17 +132,17 @@ Beyond the screen, I find inspiration in the natural world. Whether I'm photogra
 &nbsp;
 <img src="assets/Olivia-Ski-Small.jpg" width="180">
 &nbsp;
-<img src="assets/Olivia-Museum-Small.jpg" width="405">
+<img src="assets/Olivia-Museum-Small.jpg" width="408">
 
 </p>
 
 <p align="center">
 
-<img src="assets/Olivia-PHS-Small.jpg" width="450">
+<img src="assets/Olivia-PHS-Small.jpg" width="408">
 &nbsp;
-<img src="assets/Olivia-WagWatch-Small.jpg" width="200">
+<img src="assets/Olivia-WagWatch-Small.jpg" width="180">
 &nbsp;
-<img src="assets/Olivia-Shenandoah-Small.jpg" width="200">
+<img src="assets/Olivia-Shenandoah-Small.jpg" width="180">
 
 </p>
 
