@@ -15,7 +15,7 @@
 <td width="36%" align="center">
 
 <img
-src="assets/OK-Cover.jpg"
+src="assets/OK-Cover.png"
 width="100%"
 alt="Portrait of Olivia Knestaut"
 />
@@ -74,11 +74,11 @@ Outside of technology, I find inspiration in nature. Whether I'm photographing A
 </tr>
 </table>
 
-<br><br>
-
 <!-- ========================================================= -->
 <!-- CURRENTLY INVOLVED WITH -->
 <!-- ========================================================= -->
+
+<br>
 
 <p align="center">
   <img src="assets/Title-Involvement.svg" width="800" alt="Currently Involved With...">
@@ -92,22 +92,16 @@ Outside of technology, I find inspiration in nature. Whether I'm photographing A
       <a href="https://www.drexelcab.com/" target="_blank">
         <img src="assets/CAB_FullColor.png" width="150" alt="Drexel Campus Activities Board">
       </a>
-      <br>
-      Drexel Campus Activities Board
     </td>
     <td align="center" width="200">
       <a href="https://www.instagram.com/drexelchi/?hl=en" target="_blank">
         <img src="assets/drexel-chi-ux.png" width="150" alt="Drexel Chi UX">
       </a>
-      <br>
-      Drexel Chi UX
     </td>
     <td align="center" width="200">
       <a href="https://www.instagram.com/drexeldragonfly/" target="_blank">
         <img src="assets/dragonfly-logo.png" width="150" alt="Dragonfly">
       </a>
-      <br>
-      Dragonfly
     </td>
   </tr>
   <tr>
@@ -115,22 +109,16 @@ Outside of technology, I find inspiration in nature. Whether I'm photographing A
       <a href="https://rewritingthecode.org/" target="_blank">
         <img src="assets/RTC__Logo_Orange_Logo.png" width="150" alt="Rewriting the Code">
       </a>
-      <br>
-      Rewriting the Code
     </td>
     <td align="center" width="200">
       <a href="https://ncwit.org/" target="_blank">
         <img src="assets/ncwit.png" width="150" alt="NCWIT">
       </a>
-      <br>
-      NCWIT
     </td>
     <td align="center" width="200">
       <a href="https://girlswhocode.com/" target="_blank">
         <img src="assets/Girls_Who_Code_Logo.png" width="150" alt="Girls Who Code">
       </a>
-      <br>
-      Girls Who Code
     </td>
   </tr>
 </table>
@@ -140,6 +128,8 @@ Outside of technology, I find inspiration in nature. Whether I'm photographing A
 <!-- ========================================================= -->
 <!-- LATELY I'VE BEEN... -->
 <!-- ========================================================= -->
+
+<br>
 
 <p align="center">
   <img src="assets/Title-Lately.svg" width="550" alt="Lately I've Been...">
@@ -211,6 +201,8 @@ Outside of technology, I find inspiration in nature. Whether I'm photographing A
 <!-- MAYBE YOU SAW ME AT... -->
 <!-- ========================================================= -->
 
+<br>
+
 <p align="center">
   <img src="assets/Title-Jobs.svg" width="700" alt="Maybe you saw me at...">
 </p>
@@ -260,12 +252,6 @@ Outside of technology, I find inspiration in nature. Whether I'm photographing A
 </table>
 
 <br>
-
-<p align="center">
-
-Full Stack Development • UX Design • Research • Accessibility • Student Leadership
-
-</p>
 
 <p align="center">
   <img src="assets/OK-Header.png" width="100%" alt="Abstract colorful header">
