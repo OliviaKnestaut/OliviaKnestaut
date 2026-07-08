@@ -80,42 +80,45 @@ Beyond the screen, I find inspiration in the natural world. Whether I'm photogra
 
 <br>
 
-<table align="center" style="border: none;">
-  <tr>
-    <td align="center" width="200">
-      <a href="https://www.drexelcab.com/" target="_blank">
-        <img src="assets/CAB_FullColor.png" width="150" alt="Drexel Campus Activities Board">
-      </a>
-    </td>
-    <td align="center" width="200">
-      <a href="https://www.instagram.com/drexelchi/?hl=en" target="_blank">
-        <img src="assets/drexel-chi-ux.png" width="150" alt="Drexel Chi UX">
-      </a>
-    </td>
-    <td align="center" width="200">
-      <a href="https://www.instagram.com/drexeldragonfly/" target="_blank">
-        <img src="assets/dragonfly-logo.png" width="150" alt="Dragonfly">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="200">
-      <a href="https://rewritingthecode.org/" target="_blank">
-        <img src="assets/RTC__Logo_Orange_Logo.png" width="150" alt="Rewriting the Code">
-      </a>
-    </td>
-    <td align="center" width="200">
-      <a href="https://ncwit.org/" target="_blank">
-        <img src="assets/ncwit.png" width="150" alt="NCWIT">
-      </a>
-    </td>
-    <td align="center" width="200">
-      <a href="https://girlswhocode.com/" target="_blank">
-        <img src="assets/Girls_Who_Code_Logo.png" width="150" alt="Girls Who Code">
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+
+<a href="https://www.drexelcab.com/">
+<img src="assets/CAB_FullColor.png" width="150">
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://www.instagram.com/drexelchi/?hl=en">
+<img src="assets/drexel-chi-ux.png" width="150">
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://www.instagram.com/drexeldragonfly/">
+<img src="assets/dragonfly-logo.png" width="150">
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://rewritingthecode.org/">
+<img src="assets/RTC__Logo_Orange_Logo.png" width="150">
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://ncwit.org/">
+<img src="assets/ncwit.png" width="150">
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://girlswhocode.com/">
+<img src="assets/Girls_Who_Code_Logo.png" width="150">
+</a>
+
+</p>
 
 <br>
 
@@ -131,53 +134,25 @@ Beyond the screen, I find inspiration in the natural world. Whether I'm photogra
 
 <br>
 
-<table align="center" style="border: none;">
-<tr>
+<p align="center">
 
-<td align="center" width="25%">
-<img src="assets/Olivia-Leader-Small.jpg"
-     width="220"
-     alt="Leading activities on campus">
-</td>
+<img src="assets/Olivia-Leader-Small.jpg" width="220">
+&nbsp;
+<img src="assets/Olivia-Ski-Small.jpg" width="220">
+&nbsp;
+<img src="assets/Olivia-Museum-Small.jpg" width="460">
 
-<td align="center" width="25%">
-<img src="assets//Olivia-Ski-Small.jpg"
-     width="220"
-     alt="Skiing at Blue Mountain">
-</td>
+</p>
 
-<td align="center" width="50%">
-<img src="assets/Olivia-Museum-Small.jpg"
-     width="460"
-     alt="Visiting the Wadsworth Atheneum Museum of Art">
-</td>
+<p align="center">
 
-</tr>
-</table>
+<img src="assets/Olivia-PHS-Small.jpg" width="460">
+&nbsp;
+<img src="assets/Olivia-WagWatch-Small.jpg" width="220">
+&nbsp;
+<img src="assets/Olivia-Shenandoah-Small.jpg" width="220">
 
-<table align="center" style="border: none;">
-<tr>
-
-<td align="center" width="50%">
-<img src="assets/Olivia-PHS-Small.jpg"
-     width="460"
-     alt="Award-winning photography at the PHS Flower Show">
-</td>
-
-<td align="center" width="25%">
-<img src="assets/Olivia-WagWatch-Small.jpg"
-     width="220"
-     alt="Playing with dogs at Wag Watch">
-</td>
-
-<td align="center" width="25%">
-<img src="assets/Olivia-Shenandoah-Small.jpg"
-     width="220"
-     alt="Hiking in Shenandoah National Park">
-</td>
-
-</tr>
-</table>
+</p>
 
 <!-- ========================================================= -->
 <!-- MAYBE YOU SAW ME AT... -->
@@ -191,47 +166,18 @@ Beyond the screen, I find inspiration in the natural world. Whether I'm photogra
 
 <br>
 
-<table align="center" border="0">
-<tr>
+<p align="center">
 
-<td align="center" width="25%">
-<a href="https://www.intealth.org/" target="_blank">
-<img
-    src="assets/logo-intealth.png"
-    width="180"
-    alt="Intealth">
-</a>
-</td>
+<img src="assets/logo-intealth.png" width="180">
+&nbsp;
+<img src="assets/NCC_Libraries.png" width="180">
+&nbsp;
+<img src="assets/RTC__Logo_Orange_Logo.png" width="180">
+&nbsp;
+<img src="assets/Amazon_logo.png" width="180">
 
-<td align="center" width="25%">
-<a href="https://www.newcastlede.gov/2423/Libraries" target="_blank">
-<img
-    src="assets/NCC_Libraries.png"
-    width="180"
-    alt="New Castle County Libraries">
-</a>
-</td>
 
-<td align="center" width="25%">
-<a href="https://www.rightoneducation.com/" target="_blank">
-<img
-    src="assets/RTC__Logo_Orange_Logo.png"
-    width="180"
-    alt="RightOn! Education">
-</a>
-</td>
-
-<td align="center" width="25%">
-<a href="https://www.amazon.com/" target="_blank">
-<img
-    src="assets/Amazon_logo.png"
-    width="180"
-    alt="Amazon">
-</a>
-</td>
-
-</tr>
-</table>
+</p>
 
 <br>
 
