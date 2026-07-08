@@ -152,11 +152,76 @@ Outside of technology, I find inspiration in nature. Whether I'm photographing A
 
 <br>
 
-<p align="center">
-<i>
-Building inclusive technology through design, leadership, and community.
-</i>
-</p>
+<!-- ========================================================= -->
+<!-- LATELY I'VE BEEN... -->
+<!-- ========================================================= -->
 
-<br><br>
+<h2 align="center">
+  <span style="color:#B5512A;">LATELY I'VE BEEN...</span>
+</h2>
+
+<br>
+
+<table align="center" border="0">
+<tr>
+
+<td align="center" width="25%">
+<a href="assets/Olivia-Leader-Large.jpg">
+<img src="assets/Olivia-Leader-Small.jpg"
+     width="220"
+     alt="Leading activities on campus">
+</a>
+</td>
+
+<td align="center" width="25%">
+<a href="assets/Olivia-Ski-Large.jpg">
+<img src="assets//Olivia-Ski-Small.jpg"
+     width="220"
+     alt="Skiing at Blue Mountain">
+</a>
+</td>
+
+<td align="center" width="50%">
+<a href="assets/Olivia-Museum-Large.jpg">
+<img src="assets/Olivia-Museum-Small.jpg"
+     width="460"
+     alt="Visiting the Wadsworth Atheneum Museum of Art">
+</a>
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<table align="center" border="0">
+<tr>
+
+<td align="center" width="50%">
+<a href="assets/Olivia-PHS-Large.jpg">
+<img src="assets/Olivia-PHS-Small.jpg"
+     width="460"
+     alt="Award-winning photography at the PHS Flower Show">
+</a>
+</td>
+
+<td align="center" width="25%">
+<a href="assets/Olivia-WagWatch-Large.jpg">
+<img src="assets/Olivia-WagWatch-Small.jpg"
+     width="220"
+     alt="Playing with dogs at Wag Watch">
+</a>
+</td>
+
+<td align="center" width="25%">
+<a href="assets/Olivia-Shenandoah-Large.jpg">
+<img src="assets/Olivia-Shenandoah-Small.jpg"
+     width="220"
+     alt="Hiking in Shenandoah National Park">
+</a>
+</td>
+
+</tr>
+</table>
+
 
