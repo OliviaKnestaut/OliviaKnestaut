@@ -18,7 +18,7 @@
 
 <img
   src="assets/OK-Cover.jpg"
-  width="32%"
+  width="34%"
   align="left"
   style="margin-right: 30px;"
   alt="Portrait of Olivia Knestaut"
