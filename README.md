@@ -80,21 +80,21 @@ Beyond the screen, I find inspiration in the natural world. Whether I'm photogra
 
 <br>
 
-<p align="center">
+<div align="center">
 
-<a border="0" href="https://www.drexelcab.com/">
+<a href="https://www.drexelcab.com/">
 <img src="assets/CAB_FullColor.png" width="200">
 </a>
 &nbsp;
-<a border="0" href="https://www.instagram.com/drexelchi/?hl=en">
+<a href="https://www.instagram.com/drexelchi/?hl=en">
 <img src="assets/drexel-chi-ux.png" width="140">
 </a>
 &nbsp;
-<a border="0" href="https://www.instagram.com/drexeldragonfly/">
+<a href="https://www.instagram.com/drexeldragonfly/">
 <img src="assets/dragonfly-logo.png" width="160">
 </a>
 
-</p>
+</div>
 
 <p align="center">
 
