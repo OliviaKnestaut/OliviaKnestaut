@@ -10,21 +10,18 @@
   <img src="assets/Title.svg" width="700" alt="Olivia Knestaut - Full Stack Developer and UX/UI Designer">
 </p>
 
-<table style="border: none;">
-<tr>
-<td width="36%" align="center">
+<div align="center">
 
-<img
-src="assets/OK-Cover.png"
-width="100%"
-alt="Portrait of Olivia Knestaut"
+<img 
+  src="assets/OK-Cover.png"
+  width="36%"
+  align="left"
+  alt="Portrait of Olivia Knestaut"
 />
 
-</td>
+<div align="left">
 
-<td width="64%" valign="top">
-
-As a **UX/UI Designer** and **Full Stack Developer**, I am passionate about creativity, problem-solving, and inclusive design. One of my main goals is to get involved with accessibility in media. I want to promote the consideration of a range of disabilities throughout every stage of the design and development process
+As a **UX/UI Designer** and **Full Stack Developer**, I am passionate about creativity, problem-solving, and inclusive design. One of my main goals is to get involved with accessibility in media. I want to promote the consideration of a range of disabilities throughout every stage of the design and development process.
 
 <br>
 
@@ -32,7 +29,12 @@ Currently, I am pursuing a **Bachelor of Science in User Experience & Interactio
 
 <br>
 
-Beyond the screen, I find inspiration in the natural world. Whether I'm photographing my way across America's National Parks or nurturing my ever-growing collection of houseplants, I love connecting with nature and capturing its beauty. Engaging with nature in these ways fuels my creativity and reminds me of the importance of sustainable design in all areas of life.
+Beyond the screen, I find inspiration in the natural world. Whether I'm photographing my way across America's National Parks or nurturing my ever-growing collection of houseplants, I love connecting with nature and capturing its beauty.
+
+</div>
+
+</div>
+
 
 <table align="center" style="border: none;">
 <tr>
