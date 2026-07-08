@@ -9,11 +9,11 @@
 <br>
 
 <h1 align="center">
-  <span style="color:#B5512A;">ABOUT ME</span>
+  <span style="color:#B5512A;">OLIVIA KNESTAUT</span>
 </h1>
 
 <h3 align="center">
-  <span style="color:#277785;">OLIVIA KNESTAUT</span>
+  <span style="color:#277785;">FULL STACK DEVELOPER & UX/UI DESIGNER & </span>
 </h3>
 
 <br>
@@ -23,8 +23,8 @@
 <td width="36%" align="center">
 
 <img
-src="assets/ok-about.jpg"
-width="320"
+src="assets/OK-Cover.jpg"
+width="100%"
 alt="Portrait of Olivia Knestaut"
 />
 
@@ -44,29 +44,41 @@ Outside of technology, I find inspiration in nature. Whether I'm photographing A
 
 <br><br>
 
-<p align="center">
+<table align="center">
+<tr>
 
+<td align="center">
 <a href="https://oknestaut.com">
-<img src="">
+<img src="assets/portfolio_icon_blue.svg" width="42">
 </a>
+</td>
 
+<td align="center">
 <a href="https://www.linkedin.com/in/oliviaknestaut/">
-<img src="assets/linkedin_icon_blue.svg">
+<img src="assets/linkedin_icon_blue.svg" width="42">
 </a>
+</td>
 
+<td align="center">
 <a href="mailto:olivia.knestaut@gmail.com">
-<img src="assets/mail_icon_blue.svg">
+<img src="assets/mail_icon_blue.svg" width="42">
 </a>
+</td>
 
+<td align="center">
 <a href="https://github.com/OliviaKnestaut">
-<img src="assets/github_icon_blue.svg">
+<img src="assets/github_icon_blue.svg" width="42">
 </a>
+</td>
 
+<td align="center">
 <a href="https://www.instagram.com/ollywhelmed/">
-<img src="assets/instagram_icon_blue.svg">
+<img src="assets/instagram_icon_blue.svg" width="42">
 </a>
+</td>
 
-</p>
+</tr>
+</table>
 
 </td>
 </tr>
