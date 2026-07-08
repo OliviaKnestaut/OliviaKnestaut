@@ -222,4 +222,67 @@ Outside of technology, I find inspiration in nature. Whether I'm photographing A
 </tr>
 </table>
 
+<!-- ========================================================= -->
+<!-- MAYBE YOU SAW ME AT... -->
+<!-- ========================================================= -->
+
+<h2 align="center">
+  <span style="color:#B5512A;">MAYBE YOU SAW ME AT...</span>
+</h2>
+
+<br>
+
+<table align="center" border="0">
+<tr>
+
+<td align="center" width="25%">
+<a href="https://www.intealth.org/" target="_blank">
+<img
+    src="assets/logo-intealth.png"
+    width="180"
+    alt="Intealth">
+</a>
+</td>
+
+<td align="center" width="25%">
+<a href="https://www.newcastlede.gov/2423/Libraries" target="_blank">
+<img
+    src="assets/NCC_Libraries.png"
+    width="180"
+    alt="New Castle County Libraries">
+</a>
+</td>
+
+<td align="center" width="25%">
+<a href="https://www.rightoneducation.com/" target="_blank">
+<img
+    src="assets/RTC__Logo_Orange_Logo.png"
+    width="180"
+    alt="RightOn! Education">
+</a>
+</td>
+
+<td align="center" width="25%">
+<a href="https://www.amazon.com/" target="_blank">
+<img
+    src="assets/Amazon_logo.png"
+    width="180"
+    alt="Amazon">
+</a>
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<p align="center">
+
+Full Stack Development • UX Design • Research • Accessibility • Student Leadership
+
+</p>
+
+<p align="center">
+  <img src="assets/OK-Header.png" width="100%" alt="Abstract colorful header">
+</p>
 
