@@ -73,3 +73,93 @@ Outside of technology, I find inspiration in nature. Whether I'm photographing A
 <p align="center">
 <img src="assets/divider.svg" width="100%">
 </p>
+
+<!-- ========================================================= -->
+<!-- CURRENTLY INVOLVED WITH -->
+<!-- ========================================================= -->
+
+<h2 align="center">
+  <span style="color:#B5512A;">CURRENTLY INVOLVED WITH...</span>
+</h2>
+
+<br>
+
+<p align="center">
+
+<a href="https://www.drexelcab.com/" target="_blank">
+  <img
+    src="assets/logos/cab.png"
+    width="170"
+    alt="Drexel Campus Activities Board"
+  />
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.instagram.com/drexelchi/?hl=en" target="_blank">
+  <img
+    src="assets/logos/chiux.png"
+    width="170"
+    alt="Drexel Chi UX"
+  />
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.instagram.com/drexeldragonfly/" target="_blank">
+  <img
+    src="assets/logos/dragonfly.png"
+    width="170"
+    alt="Dragonfly"
+  />
+</a>
+
+</p>
+
+<br>
+
+<p align="center">
+
+<a href="https://rewritingthecode.org/" target="_blank">
+  <img
+    src="assets/logos/rtc.png"
+    width="170"
+    alt="Rewriting the Code"
+  />
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://ncwit.org/" target="_blank">
+  <img
+    src="assets/logos/ncwit.png"
+    width="170"
+    alt="NCWIT"
+  />
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://girlswhocode.com/" target="_blank">
+  <img
+    src="assets/logos/gwc.png"
+    width="170"
+    alt="Girls Who Code"
+  />
+</a>
+
+</p>
+
+<br>
+
+<p align="center">
+<i>
+Building inclusive technology through design, leadership, and community.
+</i>
+</p>
+
+<br><br>
+
+<p align="center">
+<img src="assets/divider.svg" width="100%">
+</p>
