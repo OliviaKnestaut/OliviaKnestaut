@@ -10,7 +10,7 @@
   <img src="assets/Title.svg" width="700" alt="Olivia Knestaut - Full Stack Developer and UX/UI Designer">
 </p>
 
-<table>
+<table cellpadding="0" cellspacing="0">
 <tr>
 <td width="36%" align="center" valign="middle">
 
@@ -18,6 +18,7 @@
 src="assets/OK-Cover.jpg"
 width="100%"
 alt="Portrait of Olivia Knestaut"
+style="display:block;"
 />
 
 </td>
