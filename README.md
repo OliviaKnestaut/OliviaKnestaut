@@ -128,11 +128,11 @@ Beyond the screen, I find inspiration in the natural world. Whether I'm photogra
 
 <p align="center">
 
-<img src="assets/Olivia-Leader-Small.jpg" width="200">
+<img src="assets/Olivia-Leader-Small.jpg" width="180">
 &nbsp;
-<img src="assets/Olivia-Ski-Small.jpg" width="200">
+<img src="assets/Olivia-Ski-Small.jpg" width="180">
 &nbsp;
-<img src="assets/Olivia-Museum-Small.jpg" width="450">
+<img src="assets/Olivia-Museum-Small.jpg" width="405">
 
 </p>
 
