@@ -23,7 +23,7 @@
 <td width="36%" align="center">
 
 <img
-src="assets/about/ok-about.jpg"
+src="assets/ok-about.jpg"
 width="320"
 alt="Portrait of Olivia Knestaut"
 />
@@ -47,19 +47,23 @@ Outside of technology, I find inspiration in nature. Whether I'm photographing A
 <p align="center">
 
 <a href="https://oknestaut.com">
-<img src="https://img.shields.io/badge/Portfolio-FFF9EE?style=for-the-badge&logo=googlechrome&logoColor=B5512A&labelColor=FFF9EE&color=B5512A">
+<img src="">
 </a>
 
 <a href="https://www.linkedin.com/in/oliviaknestaut/">
-<img src="https://img.shields.io/badge/LinkedIn-277785?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="assets/linkedin_icon_blue.svg">
 </a>
 
 <a href="mailto:olivia.knestaut@gmail.com">
-<img src="https://img.shields.io/badge/Email-715790?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="assets/mail_icon_blue.svg">
 </a>
 
 <a href="https://github.com/OliviaKnestaut">
-<img src="https://img.shields.io/badge/GitHub-222222?style=for-the-badge&logo=github&logoColor=white">
+<img src="assets/github_icon_blue.svg">
+</a>
+
+<a href="https://www.instagram.com/ollywhelmed/">
+<img src="assets/instagram_icon_blue.svg">
 </a>
 
 </p>
@@ -69,10 +73,6 @@ Outside of technology, I find inspiration in nature. Whether I'm photographing A
 </table>
 
 <br><br>
-
-<p align="center">
-<img src="assets/divider.svg" width="100%">
-</p>
 
 <!-- ========================================================= -->
 <!-- CURRENTLY INVOLVED WITH -->
@@ -88,7 +88,7 @@ Outside of technology, I find inspiration in nature. Whether I'm photographing A
 
 <a href="https://www.drexelcab.com/" target="_blank">
   <img
-    src="assets/logos/cab.png"
+    src="assets/CAB_FullColor.png"
     width="170"
     alt="Drexel Campus Activities Board"
   />
@@ -98,7 +98,7 @@ Outside of technology, I find inspiration in nature. Whether I'm photographing A
 
 <a href="https://www.instagram.com/drexelchi/?hl=en" target="_blank">
   <img
-    src="assets/logos/chiux.png"
+    src="assets/drexel-chi-ux.png"
     width="170"
     alt="Drexel Chi UX"
   />
@@ -108,7 +108,7 @@ Outside of technology, I find inspiration in nature. Whether I'm photographing A
 
 <a href="https://www.instagram.com/drexeldragonfly/" target="_blank">
   <img
-    src="assets/logos/dragonfly.png"
+    src="assets/dragonfly-logo.png"
     width="170"
     alt="Dragonfly"
   />
@@ -122,7 +122,7 @@ Outside of technology, I find inspiration in nature. Whether I'm photographing A
 
 <a href="https://rewritingthecode.org/" target="_blank">
   <img
-    src="assets/logos/rtc.png"
+    src="assets/RTC__Logo_Orange_Logo.png"
     width="170"
     alt="Rewriting the Code"
   />
@@ -132,7 +132,7 @@ Outside of technology, I find inspiration in nature. Whether I'm photographing A
 
 <a href="https://ncwit.org/" target="_blank">
   <img
-    src="assets/logos/ncwit.png"
+    src="assets/ncwit.png"
     width="170"
     alt="NCWIT"
   />
@@ -142,7 +142,7 @@ Outside of technology, I find inspiration in nature. Whether I'm photographing A
 
 <a href="https://girlswhocode.com/" target="_blank">
   <img
-    src="assets/logos/gwc.png"
+    src="assets/Girls_Who_Code_Logo.png"
     width="170"
     alt="Girls Who Code"
   />
@@ -160,6 +160,3 @@ Building inclusive technology through design, leadership, and community.
 
 <br><br>
 
-<p align="center">
-<img src="assets/divider.svg" width="100%">
-</p>
