@@ -71,7 +71,7 @@ Beyond the screen, I find inspiration in the natural world. Whether I'm photogra
 <!-- CURRENTLY INVOLVED WITH -->
 <!-- ========================================================= -->
 
-<br><br>
+<br>
 
 <p align="center">
   <img src="assets/Title-Involvement.svg" width="800" alt="Currently Involved With...">
