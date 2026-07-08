@@ -3,7 +3,7 @@
 <!-- ========================================================= -->
 
 <p align="center">
-  <img src="assets/OK-Header.jpg" width="100%" alt="Abstract colorful header">
+  <img src="assets/OK-Header.png" width="100%" alt="Abstract colorful header">
 </p>
 
 <br>
