@@ -51,10 +51,6 @@ Beyond the screen, I find inspiration in the natural world. Whether I'm photogra
 <img src="assets/mail_icon_blue.svg" width="42">
 </a>
 &nbsp;
-<a href="https://github.com/OliviaKnestaut">
-<img src="assets/github_icon_blue.svg" width="42">
-</a>
-&nbsp;
 <a href="https://www.instagram.com/ollywhelmed/">
 <img src="assets/instagram_icon_blue.svg" width="42">
 </a>
