@@ -38,31 +38,31 @@ Beyond the screen, I find inspiration in the natural world. Whether I'm photogra
 
 <p align="center">
 
-<a href="https://oknestaut.com">
+<a href="https://oknestaut.com" target="_blank">
 <img src="assets/portfolio_icon_blue.svg" width="42">
 </a>
 
 &nbsp;
 
-<a href="https://www.linkedin.com/in/oliviaknestaut/">
+<a href="https://www.linkedin.com/in/oliviaknestaut/" target="_blank">
 <img src="assets/linkedin_icon_blue.svg" width="42">
 </a>
 
 &nbsp;
 
-<a href="mailto:olivia.knestaut@gmail.com">
+<a href="mailto:olivia.knestaut@gmail.com" target="_blank">
 <img src="assets/mail_icon_blue.svg" width="42">
 </a>
 
 &nbsp;
 
-<a href="https://github.com/OliviaKnestaut">
+<a href="https://github.com/OliviaKnestaut" target="_blank">
 <img src="assets/github_icon_blue.svg" width="42">
 </a>
 
 &nbsp;
 
-<a href="https://www.instagram.com/ollywhelmed/">
+<a href="https://www.instagram.com/ollywhelmed/" target="_blank">
 <img src="assets/instagram_icon_blue.svg" width="42">
 </a>
 
@@ -82,15 +82,15 @@ Beyond the screen, I find inspiration in the natural world. Whether I'm photogra
 
 <div align="center">
 
-<a href="https://www.drexelcab.com/">
+<a href="https://www.drexelcab.com/" target="_blank">
 <img src="assets/CAB_FullColor.png" width="200">
 </a>
 &nbsp;
-<a href="https://www.instagram.com/drexelchi/?hl=en">
+<a href="https://www.instagram.com/drexelchi/?hl=en" target="_blank">
 <img src="assets/drexel-chi-ux.png" width="140">
 </a>
 &nbsp;
-<a href="https://www.instagram.com/drexeldragonfly/">
+<a href="https://www.instagram.com/drexeldragonfly/" target="_blank">
 <img src="assets/dragonfly-logo.png" width="160">
 </a>
 
@@ -98,15 +98,15 @@ Beyond the screen, I find inspiration in the natural world. Whether I'm photogra
 
 <p align="center">
 
-<a href="https://rewritingthecode.org/">
+<a href="https://rewritingthecode.org/" target="_blank">
 <img src="assets/RTC__Logo_Orange_Logo.png" width="220">
 </a>
 &nbsp;
-<a href="https://ncwit.org/">
+<a href="https://ncwit.org/" target="_blank">
 <img src="assets/ncwit.png" width="220">
 </a>
 &nbsp;
-<a href="https://girlswhocode.com/">
+<a href="https://girlswhocode.com/" target="_blank">
 <img src="assets/Girls_Who_Code_Logo.png" width="180">
 </a>
 
@@ -159,13 +159,22 @@ Beyond the screen, I find inspiration in the natural world. Whether I'm photogra
 <br>
 
 <p align="center">
-<img src="assets/logo-intealth.png" width="190">
+
+<a href="https://www.intealth.org/" target="_blank">
+<img src="assets/logo-intealth.png" width="220">
+</a>
 &nbsp;
-<img src="assets/NCC_Libraries.png" width="100">
+<a href="https://www.newcastlede.gov/2930/Libraries" target="_blank">
+<img src="assets/NCC_Libraries.png" width="120">
+</a>
 &nbsp;
-<img src="assets/RTC__Logo_Orange_Logo.png" width="190">
+<a href="https://www.rightoneducation.com/" target="_blank">
+<img src="assets/RightOn-Circle-512x512.png" width="120">
+</a>
 &nbsp;
-<img src="assets/Amazon_logo.png" width="190">
+<a href="https://www.amazon.com/" target="_blank">
+<img src="assets/Amazon_logo.png" width="220">
+</a>
 </p>
 
 <br>
