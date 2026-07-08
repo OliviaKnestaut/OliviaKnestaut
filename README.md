@@ -83,19 +83,15 @@ Beyond the screen, I find inspiration in the natural world. Whether I'm photogra
 <p align="center">
 
 <a href="https://www.drexelcab.com/">
-<img src="assets/CAB_FullColor.png" width="150">
+<img src="assets/CAB_FullColor.png" width="200">
 </a>
-
-&nbsp;&nbsp;
-
+&nbsp;
 <a href="https://www.instagram.com/drexelchi/?hl=en">
-<img src="assets/drexel-chi-ux.png" width="150">
+<img src="assets/drexel-chi-ux.png" width="140">
 </a>
-
-&nbsp;&nbsp;
-
+&nbsp;
 <a href="https://www.instagram.com/drexeldragonfly/">
-<img src="assets/dragonfly-logo.png" width="150">
+<img src="assets/dragonfly-logo.png" width="160">
 </a>
 
 </p>
@@ -103,19 +99,15 @@ Beyond the screen, I find inspiration in the natural world. Whether I'm photogra
 <p align="center">
 
 <a href="https://rewritingthecode.org/">
-<img src="assets/RTC__Logo_Orange_Logo.png" width="150">
+<img src="assets/RTC__Logo_Orange_Logo.png" width="220">
 </a>
-
-&nbsp;&nbsp;
-
+&nbsp;
 <a href="https://ncwit.org/">
-<img src="assets/ncwit.png" width="150">
+<img src="assets/ncwit.png" width="220">
 </a>
-
-&nbsp;&nbsp;
-
+&nbsp;
 <a href="https://girlswhocode.com/">
-<img src="assets/Girls_Who_Code_Logo.png" width="150">
+<img src="assets/Girls_Who_Code_Logo.png" width="180">
 </a>
 
 </p>
@@ -136,21 +128,21 @@ Beyond the screen, I find inspiration in the natural world. Whether I'm photogra
 
 <p align="center">
 
-<img src="assets/Olivia-Leader-Small.jpg" width="220">
+<img src="assets/Olivia-Leader-Small.jpg" width="200">
 &nbsp;
-<img src="assets/Olivia-Ski-Small.jpg" width="220">
+<img src="assets/Olivia-Ski-Small.jpg" width="200">
 &nbsp;
-<img src="assets/Olivia-Museum-Small.jpg" width="460">
+<img src="assets/Olivia-Museum-Small.jpg" width="450">
 
 </p>
 
 <p align="center">
 
-<img src="assets/Olivia-PHS-Small.jpg" width="460">
+<img src="assets/Olivia-PHS-Small.jpg" width="450">
 &nbsp;
-<img src="assets/Olivia-WagWatch-Small.jpg" width="220">
+<img src="assets/Olivia-WagWatch-Small.jpg" width="200">
 &nbsp;
-<img src="assets/Olivia-Shenandoah-Small.jpg" width="220">
+<img src="assets/Olivia-Shenandoah-Small.jpg" width="200">
 
 </p>
 
@@ -167,16 +159,13 @@ Beyond the screen, I find inspiration in the natural world. Whether I'm photogra
 <br>
 
 <p align="center">
-
-<img src="assets/logo-intealth.png" width="180">
+<img src="assets/logo-intealth.png" width="190">
 &nbsp;
-<img src="assets/NCC_Libraries.png" width="180">
+<img src="assets/NCC_Libraries.png" width="100">
 &nbsp;
-<img src="assets/RTC__Logo_Orange_Logo.png" width="180">
+<img src="assets/RTC__Logo_Orange_Logo.png" width="190">
 &nbsp;
-<img src="assets/Amazon_logo.png" width="180">
-
-
+<img src="assets/Amazon_logo.png" width="190">
 </p>
 
 <br>
