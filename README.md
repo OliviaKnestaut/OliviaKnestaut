@@ -36,51 +36,43 @@ Beyond the screen, I find inspiration in the natural world. Whether I'm photogra
 </div>
 
 
-<table align="center" style="border: none;">
-<tr>
+<p align="center">
 
-<td align="center">
 <a href="https://oknestaut.com">
 <img src="assets/portfolio_icon_blue.svg" width="42">
 </a>
-</td>
 
-<td align="center">
+&nbsp;
+
 <a href="https://www.linkedin.com/in/oliviaknestaut/">
 <img src="assets/linkedin_icon_blue.svg" width="42">
 </a>
-</td>
 
-<td align="center">
+&nbsp;
+
 <a href="mailto:olivia.knestaut@gmail.com">
 <img src="assets/mail_icon_blue.svg" width="42">
 </a>
-</td>
 
-<td align="center">
+&nbsp;
+
 <a href="https://github.com/OliviaKnestaut">
 <img src="assets/github_icon_blue.svg" width="42">
 </a>
-</td>
 
-<td align="center">
+&nbsp;
+
 <a href="https://www.instagram.com/ollywhelmed/">
 <img src="assets/instagram_icon_blue.svg" width="42">
 </a>
-</td>
 
-</tr>
-</table>
-
-</td>
-</tr>
-</table>
+</p>
 
 <!-- ========================================================= -->
 <!-- CURRENTLY INVOLVED WITH -->
 <!-- ========================================================= -->
 
-<br>
+<br><br>
 
 <p align="center">
   <img src="assets/Title-Involvement.svg" width="800" alt="Currently Involved With...">
