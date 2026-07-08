@@ -10,30 +10,33 @@
   <img src="assets/Title.svg" width="700" alt="Olivia Knestaut - Full Stack Developer and UX/UI Designer">
 </p>
 
-<div align="center">
+<table>
+<tr>
+<td width="36%" align="center" valign="middle">
 
-<img 
-  src="assets/OK-Cover.png"
-  width="36%"
-  align="left"
-  alt="Portrait of Olivia Knestaut"
+<img
+src="assets/OK-Cover.png"
+width="100%"
+alt="Portrait of Olivia Knestaut"
 />
 
-<div align="left">
+</td>
+
+<td width="64%" valign="middle">
 
 As a **UX/UI Designer** and **Full Stack Developer**, I am passionate about creativity, problem-solving, and inclusive design. One of my main goals is to get involved with accessibility in media. I want to promote the consideration of a range of disabilities throughout every stage of the design and development process.
 
-<br>
+<br><br>
 
 Currently, I am pursuing a **Bachelor of Science in User Experience & Interaction Design (UXID)** with a **Minor in Graphic Design** at **Drexel University**. With this degree I hope to build towards a mastery of full-stack development and design to help add meaningful, accessible media to the world.
 
-<br>
+<br><br>
 
-Beyond the screen, I find inspiration in the natural world. Whether I'm photographing my way across America's National Parks or nurturing my ever-growing collection of houseplants, I love connecting with nature and capturing its beauty.
+Beyond the screen, I find inspiration in the natural world. Whether I'm photographing my way across America's National Parks or nurturing my ever-growing collection of houseplants, I love connecting with nature and capturing its beauty. Engaging with nature in these ways fuels my creativity and reminds me of the importance of sustainable design in all areas of life.
 
-</div>
-
-</div>
+</td>
+</tr>
+</table>
 
 <div align="center">
 
@@ -105,13 +108,11 @@ Beyond the screen, I find inspiration in the natural world. Whether I'm photogra
 
 </div>
 
-<br>
-
 <!-- ========================================================= -->
 <!-- LATELY I'VE BEEN... -->
 <!-- ========================================================= -->
 
-<br>
+<br><br>
 
 <p align="center">
   <img src="assets/Title-Lately.svg" width="550" alt="Lately I've Been...">
@@ -143,7 +144,7 @@ Beyond the screen, I find inspiration in the natural world. Whether I'm photogra
 <!-- MAYBE YOU SAW ME AT... -->
 <!-- ========================================================= -->
 
-<br>
+<br><br>
 
 <p align="center">
   <img src="assets/Title-Jobs.svg" width="700" alt="Maybe you saw me at...">
