@@ -35,38 +35,29 @@ Beyond the screen, I find inspiration in the natural world. Whether I'm photogra
 
 </div>
 
-
-<p align="center">
+<div align="center">
 
 <a href="https://oknestaut.com" target="_blank">
 <img src="assets/portfolio_icon_blue.svg" width="42">
 </a>
-
 &nbsp;
-
 <a href="https://www.linkedin.com/in/oliviaknestaut/" target="_blank">
 <img src="assets/linkedin_icon_blue.svg" width="42">
 </a>
-
 &nbsp;
-
 <a href="mailto:olivia.knestaut@gmail.com" target="_blank">
 <img src="assets/mail_icon_blue.svg" width="42">
 </a>
-
 &nbsp;
-
 <a href="https://github.com/OliviaKnestaut" target="_blank">
 <img src="assets/github_icon_blue.svg" width="42">
 </a>
-
 &nbsp;
-
 <a href="https://www.instagram.com/ollywhelmed/" target="_blank">
 <img src="assets/instagram_icon_blue.svg" width="42">
 </a>
+</div>
 
-</p>
 
 <!-- ========================================================= -->
 <!-- CURRENTLY INVOLVED WITH -->
@@ -96,7 +87,9 @@ Beyond the screen, I find inspiration in the natural world. Whether I'm photogra
 
 </div>
 
-<p align="center">
+<br>
+
+<div align="center">
 
 <a href="https://rewritingthecode.org/" target="_blank">
 <img src="assets/RTC__Logo_Orange_Logo.png" width="220">
@@ -110,7 +103,7 @@ Beyond the screen, I find inspiration in the natural world. Whether I'm photogra
 <img src="assets/Girls_Who_Code_Logo.png" width="180">
 </a>
 
-</p>
+</div>
 
 <br>
 
@@ -126,7 +119,7 @@ Beyond the screen, I find inspiration in the natural world. Whether I'm photogra
 
 <br>
 
-<p align="center">
+<div align="center">
 
 <img src="assets/Olivia-Leader-Small.jpg" width="180">
 &nbsp;
@@ -134,9 +127,9 @@ Beyond the screen, I find inspiration in the natural world. Whether I'm photogra
 &nbsp;
 <img src="assets/Olivia-Museum-Small.jpg" width="408">
 
-</p>
+</div>
 
-<p align="center">
+<div align="center">
 
 <img src="assets/Olivia-PHS-Small.jpg" width="408">
 &nbsp;
@@ -144,7 +137,7 @@ Beyond the screen, I find inspiration in the natural world. Whether I'm photogra
 &nbsp;
 <img src="assets/Olivia-Shenandoah-Small.jpg" width="180">
 
-</p>
+</div>
 
 <!-- ========================================================= -->
 <!-- MAYBE YOU SAW ME AT... -->
@@ -158,7 +151,7 @@ Beyond the screen, I find inspiration in the natural world. Whether I'm photogra
 
 <br>
 
-<p align="center">
+<div align="center">
 
 <a href="https://www.intealth.org/" target="_blank">
 <img src="assets/logo-intealth.png" width="220">
@@ -175,7 +168,7 @@ Beyond the screen, I find inspiration in the natural world. Whether I'm photogra
 <a href="https://www.amazon.com/" target="_blank">
 <img src="assets/Amazon_logo.png" width="220">
 </a>
-</p>
+</div>
 
 <br>
 
