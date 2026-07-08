@@ -8,13 +8,9 @@
 
 <br>
 
-<h1 align="center">
-  <span style="color:#B5512A;">OLIVIA KNESTAUT</span>
-</h1>
-
-<h3 align="center">
-  <span style="color:#277785;">FULL STACK DEVELOPER & UX/UI DESIGNER & </span>
-</h3>
+<p align="center">
+  <img src="assets/Title.svg" width="700" alt="Olivia Knestaut - Full Stack Developer and UX/UI Designer">
+</p>
 
 <br>
 
@@ -83,10 +79,6 @@ Outside of technology, I find inspiration in nature. Whether I'm photographing A
 </table>
 
 <br><br>
-
-<!-- ========================================================= -->
-<!-- CURRENTLY INVOLVED WITH -->
-<!-- ========================================================= -->
 
 <!-- ========================================================= -->
 <!-- CURRENTLY INVOLVED WITH -->
