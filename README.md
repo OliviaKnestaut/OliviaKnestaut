@@ -11,7 +11,7 @@
 </p>
 
 <table border="0">
-<tr>
+<tr border="0">
 <td width="36%" align="center" border="0">
 
 <img
@@ -22,7 +22,7 @@ alt="Portrait of Olivia Knestaut"
 
 </td>
 
-<td width="64%" valign="top">
+<td width="64%" align="top" border="0">
 
 As a **UX/UI Designer** and **Full Stack Developer**, I am passionate about creativity, problem-solving, and inclusive design. One of my main goals is to get involved with accessibility in media. I want to promote the consideration of a range of disabilities throughout every stage of the design and development process
 
@@ -35,7 +35,7 @@ Currently, I am pursuing a **Bachelor of Science in User Experience & Interactio
 Beyond the screen, I find inspiration in the natural world. Whether I'm photographing my way across America's National Parks or nurturing my ever-growing collection of houseplants, I love connecting with nature and capturing its beauty. Engaging with nature in these ways fuels my creativity and reminds me of the importance of sustainable design in all areas of life.
 
 <table align="center" border="0">
-<tr>
+<tr border="0">
 
 <td align="center">
 <a href="https://oknestaut.com">
