@@ -42,8 +42,6 @@ Currently, I am pursuing a **Bachelor of Science in User Experience & Interactio
 
 Outside of technology, I find inspiration in nature. Whether I'm photographing America's National Parks or caring for my ever-growing collection of houseplants, spending time outdoors fuels my creativity and reminds me of the importance of sustainable and human-centered design.
 
-<br><br>
-
 <table align="center">
 <tr>
 
@@ -90,77 +88,64 @@ Outside of technology, I find inspiration in nature. Whether I'm photographing A
 <!-- CURRENTLY INVOLVED WITH -->
 <!-- ========================================================= -->
 
+<!-- ========================================================= -->
+<!-- CURRENTLY INVOLVED WITH -->
+<!-- ========================================================= -->
+
 <h2 align="center">
   <span style="color:#B5512A;">CURRENTLY INVOLVED WITH...</span>
 </h2>
 
 <br>
 
-<p align="center">
-
-<a href="https://www.drexelcab.com/" target="_blank">
-  <img
-    src="assets/CAB_FullColor.png"
-    width="170"
-    alt="Drexel Campus Activities Board"
-  />
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.instagram.com/drexelchi/?hl=en" target="_blank">
-  <img
-    src="assets/drexel-chi-ux.png"
-    width="170"
-    alt="Drexel Chi UX"
-  />
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.instagram.com/drexeldragonfly/" target="_blank">
-  <img
-    src="assets/dragonfly-logo.png"
-    width="170"
-    alt="Dragonfly"
-  />
-</a>
-
-</p>
-
-<br>
-
-<p align="center">
-
-<a href="https://rewritingthecode.org/" target="_blank">
-  <img
-    src="assets/RTC__Logo_Orange_Logo.png"
-    width="170"
-    alt="Rewriting the Code"
-  />
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://ncwit.org/" target="_blank">
-  <img
-    src="assets/ncwit.png"
-    width="170"
-    alt="NCWIT"
-  />
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://girlswhocode.com/" target="_blank">
-  <img
-    src="assets/Girls_Who_Code_Logo.png"
-    width="170"
-    alt="Girls Who Code"
-  />
-</a>
-
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="200">
+      <a href="https://www.drexelcab.com/" target="_blank">
+        <img src="assets/CAB_FullColor.png" width="150" alt="Drexel Campus Activities Board">
+      </a>
+      <br>
+      Drexel Campus Activities Board
+    </td>
+    <td align="center" width="200">
+      <a href="https://www.instagram.com/drexelchi/?hl=en" target="_blank">
+        <img src="assets/drexel-chi-ux.png" width="150" alt="Drexel Chi UX">
+      </a>
+      <br>
+      Drexel Chi UX
+    </td>
+    <td align="center" width="200">
+      <a href="https://www.instagram.com/drexeldragonfly/" target="_blank">
+        <img src="assets/dragonfly-logo.png" width="150" alt="Dragonfly">
+      </a>
+      <br>
+      Dragonfly
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <a href="https://rewritingthecode.org/" target="_blank">
+        <img src="assets/RTC__Logo_Orange_Logo.png" width="150" alt="Rewriting the Code">
+      </a>
+      <br>
+      Rewriting the Code
+    </td>
+    <td align="center" width="200">
+      <a href="https://ncwit.org/" target="_blank">
+        <img src="assets/ncwit.png" width="150" alt="NCWIT">
+      </a>
+      <br>
+      NCWIT
+    </td>
+    <td align="center" width="200">
+      <a href="https://girlswhocode.com/" target="_blank">
+        <img src="assets/Girls_Who_Code_Logo.png" width="150" alt="Girls Who Code">
+      </a>
+      <br>
+      Girls Who Code
+    </td>
+  </tr>
+</table>
 
 <br>
 
