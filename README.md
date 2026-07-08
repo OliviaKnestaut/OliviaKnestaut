@@ -3,7 +3,7 @@
 <!-- ========================================================= -->
 
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Abstract colorful header">
+  <img src="assets/OK-Header.jpg" width="100%" alt="Abstract colorful header">
 </p>
 
 <br>
@@ -191,8 +191,6 @@ Outside of technology, I find inspiration in nature. Whether I'm photographing A
 
 </tr>
 </table>
-
-<br>
 
 <table align="center" border="0">
 <tr>
