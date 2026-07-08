@@ -15,7 +15,7 @@
 <td width="36%" align="center" valign="middle">
 
 <img
-src="assets/OK-Cover.png"
+src="assets/OK-Cover.jpg"
 width="100%"
 alt="Portrait of Olivia Knestaut"
 />
@@ -34,12 +34,9 @@ Currently, I am pursuing a **Bachelor of Science in User Experience & Interactio
 
 Beyond the screen, I find inspiration in the natural world. Whether I'm photographing my way across America's National Parks or nurturing my ever-growing collection of houseplants, I love connecting with nature and capturing its beauty. Engaging with nature in these ways fuels my creativity and reminds me of the importance of sustainable design in all areas of life.
 
-</td>
-</tr>
-</table>
+<br>
 
 <div align="center">
-
 <a href="https://oknestaut.com" target="_blank">
 <img src="assets/portfolio_icon_blue.svg" width="42">
 </a>
@@ -60,6 +57,10 @@ Beyond the screen, I find inspiration in the natural world. Whether I'm photogra
 <img src="assets/instagram_icon_blue.svg" width="42">
 </a>
 </div>
+
+</td>
+</tr>
+</table>
 
 
 <!-- ========================================================= -->
